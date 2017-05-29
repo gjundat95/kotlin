@@ -1,0 +1,10 @@
+package variable
+
+var a = 2
+
+
+
+fun main(args: Array<String>) {
+	a *= 9
+	print(a)
+}

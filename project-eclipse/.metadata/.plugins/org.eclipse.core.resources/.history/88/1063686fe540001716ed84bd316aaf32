@@ -1,0 +1,14 @@
+package variable
+
+class variable {
+	
+	var a = 1
+	
+	private fun getA(){
+		print(a)
+	}
+}
+
+fun main(args: Array<String>) {
+	
+}
