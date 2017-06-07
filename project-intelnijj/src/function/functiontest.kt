@@ -12,5 +12,5 @@ fun min(a:Int, b:Int) = if(a>b) b else a
 
 fun main(args: Array<String>) {
     println(max(3,4))
-    println(min(3,4))
+    println(min(a = 3,b = 4))
 }
